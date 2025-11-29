@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on VRC and FRC<br>👯 I’m looking to collaborate on FRC <br>🤝 I’m actively mentoring<br>🌱 I’m currently learning FRC programming and developing FRC programs n stuff
+🔭 I’m currently working on VRC and FRC projects<br>🤝 I am actively both mentoring and learning<br>🌱 My most projects are unfortunately private due to competetions being near
 
 
 ## 🌐 Socials:
