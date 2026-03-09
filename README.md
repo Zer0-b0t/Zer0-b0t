@@ -5,7 +5,7 @@
   
 - Captain - ROBOCUBE VRC
 
-- VRC 14531B, FRC 11095 Mentor
+- VRC 14531A, FRC 11095 Mentor
 
 - How to reach me **fekasbhy@gmail.com**
 
