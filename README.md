@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Serdar Burak</h1>
 <h3 align="center">TEVITOL Student who is passionate about robotics and legal hacking</h3>
 
-- 🎯 Captain - ROBOCUBE VRC
+- Programming & Electronics - Overcharge FRC #9483 (FKA Istanbul Wildcats)
+  
+- Captain - ROBOCUBE VRC
 
-- 🤖 Programming & Electronics - Wildcats FRC #9483
+- VRC 14531B, FRC 11095 Mentor
 
-- 👨‍🏫 I mentor V5RC teams
-
-- 📫 How to reach me **fekasbhy@gmail.com**
-
-- ⚡ Fun fact **I love building robots 😅**
+- How to reach me **fekasbhy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
