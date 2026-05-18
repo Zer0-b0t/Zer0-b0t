@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serdar Burak</h1>
-<h3 align="center">TEVITOL Student who is passionate about robotics and legal hacking</h3>
+<h3 align="center">I Code</h3>
 
 - Programming & Electronics - Overcharge FRC #9483 (FKA Istanbul Wildcats)
   
