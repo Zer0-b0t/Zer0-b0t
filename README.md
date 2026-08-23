@@ -3,7 +3,7 @@
 
 - Programming & Electronics - Overcharge FRC #9483 (FKA Istanbul Wildcats)
   
-- Captain - ROBOCUBE VRC
+- Captain - 5470X ONYX VRC
 
 - VRC 14531A, FRC 11095 Mentor
 
