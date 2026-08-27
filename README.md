@@ -3,9 +3,11 @@
 
 - Programming & Electronics - Overcharge FRC #9483 (FKA Istanbul Wildcats)
   
-- Captain - 5470X ONYX VRC
+- Team Captain - 5470X ONYX VRC
 
-- VRC 14531A, FRC 11095 Mentor
+- Programming Captain - Barslar UAV Team
+
+- Mentor of VRC 14531A and FRC 11095
 
 - How to reach me **fekasbhy@gmail.com**
 
